@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from '../components/Header'
-import Joke from '../components/joke'
+import Joke from '../components/Joke'
 
 export default function JokePage() {
   return (
@@ -14,3 +14,4 @@ export default function JokePage() {
     </>
   )
 }
+
